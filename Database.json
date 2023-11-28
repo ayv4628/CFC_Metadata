@@ -466,7 +466,7 @@
                   "name": "Louisville",
                   "state": "Kentucky",
                   "abbreviation": "LOU",
-                  "rival": ["CIN", “UK”],
+                  "rival": ["CIN", "UK"],
                   "rivalryNames": {
                       "UK": "Governor's Cup"
                   },
