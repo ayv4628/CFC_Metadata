@@ -29,7 +29,7 @@
           "rival": ["AUB", “TENN”, “LSU”],
           "rivalryNames": {
               "AUB": "Iron Bowl",
-	  “TENN”: “Third Saturday in October”
+	      “TENN”: “Third Saturday in October”
           },
           "prestige": "95",
           "hexColor": "#9E1B32"
@@ -40,7 +40,7 @@
           "abbreviation": "UK",
           "rival": ["LOU"],
           "rivalryNames": {
-	  “LOU”: “Governor's Cup”
+	      “LOU”: “Governor's Cup”
           },
           "prestige": "65",
           "hexColor": "#0033A0"
