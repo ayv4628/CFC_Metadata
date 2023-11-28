@@ -7,7 +7,7 @@
     "MWC": "P10",
     "WAC": "SWC"
   },
-  "baseYear": 2014,
+  "baseYear": 2017,
   "relegationRoutes": {
     "SEC": "CUSA",
     "B1G": "MAC",
@@ -262,7 +262,7 @@
                 "name": "Clemson",
                 "state": "South Carolina",
                 "abbreviation": "CLEM",
-                "rival": ["GT", "SCAR"],
+                "rival": ["GT", "SCAR", "FSU"],
                 "rivalryNames": {
                     "SCAR": "Palmetto Bowl"
                 },
@@ -282,7 +282,7 @@
                   "name": "Florida State",
                   "state": "Florida",
                   "abbreviation": "FSU",
-                  "rival": ["MIA", "FLA"],
+                  "rival": ["MIA", "FLA", "CLEM"],
                   "rivalryNames": {
                       "FLA": "Sunshine Showdown"
                   },
@@ -734,9 +734,10 @@
                 "name": "Georgia Southern",
                 "state": "Georgia",
                 "abbreviation": "GASO",
-                "rival": ["GAST"],
+                "rival": ["GAST", "APP"],
                 "rivalryNames": {
-                    "GAST": "Modern Day Hate"
+                    "GAST": "Modern Day Hate",
+		    "APP": "Deeper than Hate"
                 },
                 "prestige": "45",
                 "hexColor": "#011E41"
@@ -1014,9 +1015,10 @@
                 "name": "Appalachian State",
                 "state": "North Carolina",
                 "abbreviation": "APP",
-                "rival": ["MRSH"],
+                "rival": ["MRSH", "GASO"],
                 "rivalryNames": {
-                    "MRSH": "Old Mountain Feud"
+                    "MRSH": "Old Mountain Feud",
+                    "GASO": "Deeper than Hate"
                 },
                 "prestige": "55",
                 "hexColor": "#000000"
