@@ -26,7 +26,7 @@
           "name": "Alabama",
           "state": "Alabama",
           "abbreviation": "BAMA",
-          "rival": ["AUB", “TENN”, “LSU”],
+          "rival": ["AUB", "TENN", "LSU"],
           "rivalryNames": {
               "AUB": "Iron Bowl",
 	      “TENN”: “Third Saturday in October”
