@@ -7,7 +7,6 @@
     "MWC": "P10",
     "WAC": "SWC"
   },
-  "baseYear": 2017,
   "relegationRoutes": {
     "SEC": "CUSA",
     "B1G": "MAC",
@@ -31,21 +30,6 @@
               "AUB": "Iron Bowl",
 	      "TENN": "Third Saturday in October"
           },
-	  "headCoach": {
-	      "contractLength": "6",
-	      "startYear": "2017",
-	      "age": "65",
-	      "ratOff": "82",
-	      "cumulativePrestige": "0",
-	      "ratDef": "95",
-	      "homeState": "West Virginia",
-	      "ratPot": "58",
-	      "hometown": "Fairmont",
-	      "ratTalent": "94",
-	      "baselinePrestige": "95",
-	      "name": "Nick Saban",
-	      "contractYear": "0"
-	  },
           "prestige": "95",
           "hexColor": "#9E1B32"
         },
@@ -57,21 +41,6 @@
           "rivalryNames": {
 	      "LOU": "Governor's Cup"
           },
-	  "headCoach": {
-	      "contractLength": "4",
-	      "startYear": "2017",
-	      "age": "50",
-	      "ratOff": "68",
-	      "cumulativePrestige": "0",
-	      "ratDef": "83",
-	      "homeState": "Ohio",
-	      "ratPot": "71",
-	      "hometown": "Youngstown",
-	      "ratTalent": "76",
-	      "baselinePrestige": "75",
-	      "name": "Mark Stoops",
-	      "contractYear": "0"
-	  },
           "prestige": "67",
           "hexColor": "#0033A0"
         },
@@ -85,21 +54,6 @@
                 "UGA": "Deep South's Oldest Rivalry",
                 "LSU": "Tiger Bowl"
             },
-	    "headCoach": {
-	      "contractLength": "2",
-	      "startYear": "2017",
-	      "age": "51",
-	      "ratOff": "87",
-	      "cumulativePrestige": "0",
-	      "ratDef": "65",
-	      "homeState": "Texas",
-	      "ratPot": "67",
-	      "hometown": "Irving",
-	      "ratTalent": "82",
-	      "baselinePrestige": "80",
-	      "name": "Gus Malzahn",
-	      "contractYear": "0"
-	    },
             "prestige": "81",
             "hexColor": "#0C2340"
         },
@@ -113,21 +67,6 @@
                 "FSU": "Sunshine Showdown",
                 "LSU": "Swamp Bowl"
             },
-	    "headCoach": {
-	      "contractLength": "4",
-	      "startYear": "2017",
-	      "age": "55",
-	      "ratOff": "78",
-	      "cumulativePrestige": "0",
-	      "ratDef": "68",
-	      "homeState": "Montana",
-	      "ratPot": "62",
-	      "hometown": "Missoula",
-	      "ratTalent": "86",
-	      "baselinePrestige": "75",
-	      "name": "Jim McElwain",
-	      "contractYear": "0"
-	    },
             "prestige": "88",
             "hexColor": "#0021A5"
         },
@@ -141,21 +80,6 @@
                 "GT": "Clean, Old-Fashioned Hate",
 		"AUB": "Deep South's Oldest Rivalry"
             },
-	    "headCoach": {
-	      "contractLength": "5",
-	      "startYear": "2017",
-	      "age": "41",
-	      "ratOff": "69",
-	      "cumulativePrestige": "0",
-	      "ratDef": "92",
-	      "homeState": "Alabama",
-	      "ratPot": "87",
-	      "hometown": "Montgomery",
-	      "ratTalent": "93",
-	      "baselinePrestige": "85",
-	      "name": "Kirby Smart",
-	      "contractYear": "0"
-	    },
             "prestige": "93",
             "hexColor": "#BA0C2F"
         },
