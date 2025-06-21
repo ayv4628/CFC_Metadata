@@ -561,6 +561,49 @@
               "rivalryNames": {},
               "prestige": "57",
               "hexColor": "#13294B"
+	      "headCoach": {
+		"contractLength": "3",
+		"startYear": "2016",
+		"age": "59",
+		"ratOff": "70",
+		"cumulativePrestige": "0",
+		"ratDef": "79",
+		"homeState": "Texas",
+		"ratPot": "56",
+		"hometown": "Gladewater",
+		"ratTalent": "71",
+		"baselinePrestige": "57",
+		"name": "Lovie Smith",
+		"contractYear": "0"
+	  },
+	  "offCoordinator": {
+		"contractLength": "3",
+		"startYear": "2016",
+		"age": "44",
+		"cumulativePrestige": "0",
+		"homeState": "Oklahoma",
+		"ratPot": "63",
+		"hometown": "Tulsa",
+		"ratTalent": "68",
+		"baselinePrestige": "57",
+		"coachingAbility": "69",
+		"name": "Garrick McGee",
+		"contractYear": "0"
+	  },
+	  "defCoordinator": {
+		"contractLength": "2",
+		"startYear": "2016",
+		"age": "52",
+		"cumulativePrestige": "0",
+		"homeState": "California",
+		"ratPot": "61",
+		"hometown": "Compton",
+		"ratTalent": "63",
+		"baselinePrestige": "57",
+		"coachingAbility": "67",
+		"name": "Hardy Nickerson",
+		"contractYear": "0"
+	  }
           },  
           {
                 "name": "Indiana",
@@ -572,6 +615,35 @@
                 },
                 "prestige": "52",
                 "hexColor": "#990000"
+		"headCoach": {
+		"contractLength": "3",
+		"startYear": "2017",
+		"age": "47",
+		"ratOff": "62",
+		"cumulativePrestige": "0",
+		"ratDef": "87",
+		"homeState": "Indiana",
+		"ratPot": "73",
+		"hometown": "New Castle",
+		"ratTalent": "76",
+		"baselinePrestige": "52",
+		"name": "Tom Allen",
+		"contractYear": "0"
+	  },
+	  "offCoordinator": {
+		"contractLength": "2",
+		"startYear": "2017",
+		"age": "61",
+		"cumulativePrestige": "0",
+		"homeState": "Indiana",
+		"ratPot": "52",
+		"hometown": "Muncie",
+		"ratTalent": "70",
+		"baselinePrestige": "52",
+		"coachingAbility": "70",
+		"name": "Mike DeBord",
+		"contractYear": "0"
+	  }
               },
               {
                   "name": "Michigan",
@@ -583,6 +655,49 @@
                   },
                   "prestige": "95",
                   "hexColor": "#00274C"
+		  "headCoach": {
+		  "contractLength": "4",
+		  "startYear": "2015",
+		  "age": "53",
+		  "ratOff": "86",
+		  "cumulativePrestige": "0",
+		  "ratDef": "77",
+		  "homeState": "Ohio",
+		  "ratPot": "72",
+		  "hometown": "Toledo",
+		  "ratTalent": "87",
+		  "baselinePrestige": "95",
+		  "name": "Jim Harbaugh",
+		  "contractYear": "0"
+	    },
+	    "offCoordinator": {
+		  "contractLength": "3",
+		  "startYear": "2015",
+		  "age": "48",
+		  "cumulativePrestige": "0",
+		  "homeState": "California",
+		  "ratPot": "67",
+		  "hometown": "Torrance",
+		  "ratTalent": "70",
+		  "baselinePrestige": "95",
+		  "coachingAbility": "65",
+		  "name": "Tim Drevno",
+		  "contractYear": "0"
+	    },
+	    "defCoordinator": {
+		  "contractLength": "2",
+		  "startYear": "2016",
+		  "age": "62",
+		  "cumulativePrestige": "0",
+		  "homeState": "Massachusetts",
+		  "ratPot": "61",
+		  "hometown": "Spencer",
+		  "ratTalent": "72",
+		  "baselinePrestige": "95",
+		  "coachingAbility": "83",
+		  "name": "Don Brown",
+		  "contractYear": "0"
+	    }
               },
               {
                   "name": "Michigan State",
@@ -592,6 +707,49 @@
                   "rivalryNames": {},
                   "prestige": "82", 
                   "hexColor": "#18453B"
+		  "headCoach": {
+		  "contractLength": "3",
+		  "startYear": "2016",
+		  "age": "61",
+		  "ratOff": "70",
+		  "cumulativePrestige": "0",
+		  "ratDef": "91",
+		  "homeState": "Texas",
+		  "ratPot": "56",
+		  "hometown": "El Paso",
+		  "ratTalent": "86",
+		  "baselinePrestige": "82",
+		  "name": "Mark Dantonio",
+		  "contractYear": "0"
+	    },
+	    "offCoordinator": {
+		  "contractLength": "3",
+		  "startYear": "2016",
+		  "age": "62",
+		  "cumulativePrestige": "0",
+		  "homeState": "Ohio",
+		  "ratPot": "60",
+		  "hometown": "Ashtabula",
+		  "ratTalent": "73",
+		  "baselinePrestige": "82",
+		  "coachingAbility": "79",
+		  "name": "Jim Bollman",
+		  "contractYear": "0"
+	    },
+	    "defCoordinator": {
+		  "contractLength": "3",
+		  "startYear": "2015",
+		  "age": "50",
+		  "cumulativePrestige": "0",
+		  "homeState": "Ohio",
+		  "ratPot": "69",
+		  "hometown": "Cincinnati",
+		  "ratTalent": "78",
+		  "baselinePrestige": "82",
+		  "coachingAbility": "79",
+		  "name": "Harlon Barnett",
+		  "contractYear": "0"
+	    }
               },
               {
                   "name": "Minnesota",
@@ -603,6 +761,49 @@
                   },
                   "prestige": "62",
                   "hexColor": "#7A0019"
+		  "headCoach": {
+		  "contractLength": "3",
+		  "startYear": "2017",
+		  "age": "36",
+		  "ratOff": "78",
+		  "cumulativePrestige": "0",
+		  "ratDef": "67",
+		  "homeState": "Illinois",
+		  "ratPot": "76",
+		  "hometown": "Sugar Grove",
+		  "ratTalent": "84",
+		  "baselinePrestige": "62",
+		  "name": "PJ Fleck",
+		  "contractYear": "0"
+	    },
+	    "offCoordinator": {
+		  "contractLength": "2",
+		  "startYear": "2017",
+		  "age": "52",
+		  "cumulativePrestige": "0",
+		  "homeState": "Pennsylvania",
+		  "ratPot": "68",
+		  "hometown": "York County",
+		  "ratTalent": "75",
+		  "baselinePrestige": "62",
+		  "coachingAbility": "77",
+		  "name": "Kirk Ciarrocca",
+		  "contractYear": "0"
+	    },
+	    "defCoordinator": {
+		  "contractLength": "2",
+		  "startYear": "2017",
+		  "age": "42",
+		  "cumulativePrestige": "0",
+		  "homeState": "Pennsylvania",
+		  "ratPot": "73",
+		  "hometown": "Pittsburgh",
+		  "ratTalent": "70",
+		  "baselinePrestige": "62",
+		  "coachingAbility": "69",
+		  "name": "Robb Smith",
+		  "contractYear": "0"
+	    }
               },
               {
                   "name": "Northwestern",
@@ -612,6 +813,35 @@
                   "rivalryNames": {},
                   "prestige": "60",
                   "hexColor": "#4E2A84"
+		  "headCoach": {
+		  "contractLength": "4",
+		  "startYear": "2015",
+		  "age": "42",
+		  "ratOff": "69",
+		  "cumulativePrestige": "0",
+		  "ratDef": "87",
+		  "homeState": "Illinois",
+		  "ratPot": "67",
+		  "hometown": "Midlothian",
+		  "ratTalent": "82",
+		  "baselinePrestige": "60",
+		  "name": "Pat Fitzgerald",
+		  "contractYear": "0"
+	    },
+	    "defCoordinator": {
+		  "contractLength": "3",
+		  "startYear": "2016",
+		  "age": "69",
+		  "cumulativePrestige": "0",
+		  "homeState": "Michigan",
+		  "ratPot": "51",
+		  "hometown": "Ludington",
+		  "ratTalent": "78",
+		  "baselinePrestige": "60",
+		  "coachingAbility": "82",
+		  "name": "Mike Hankwitz",
+		  "contractYear": "0"
+	    }
               },
               {
                   "name": "Ohio State",
@@ -623,6 +853,49 @@
                   },
                   "prestige": "95",
                   "hexColor": "#BB0000"
+		  "headCoach": {
+		  "contractLength": "4",
+		  "startYear": "2015",
+		  "age": "53",
+		  "ratOff": "93",
+		  "cumulativePrestige": "0",
+		  "ratDef": "76",
+		  "homeState": "Ohio",
+		  "ratPot": "53",
+		  "hometown": "Toledo",
+		  "ratTalent": "84",
+		  "baselinePrestige": "95",
+		  "name": "Urban Meyer",
+		  "contractYear": "0"
+	    },
+	    "offCoordinator": {
+		  "contractLength": "2",
+		  "startYear": "2017",
+		  "age": "38",
+		  "cumulativePrestige": "0",
+		  "homeState": "New Hampshire",
+		  "ratPot": "84",
+		  "hometown": "Manchester",
+		  "ratTalent": "80",
+		  "baselinePrestige": "95",
+		  "coachingAbility": "88",
+		  "name": "Ryan Day",
+		  "contractYear": "0"
+	    },
+	    "defCoordinator": {
+		  "contractLength": "3",
+		  "startYear": "2016",
+		  "age": "51",
+		  "cumulativePrestige": "0",
+		  "homeState": "New Jersey",
+		  "ratPot": "63",
+		  "hometown": "Wyckoff",
+		  "ratTalent": "85",
+		  "baselinePrestige": "95",
+		  "coachingAbility": "84",
+		  "name": "Greg Schiano",
+		  "contractYear": "0"
+	    }
               },
               {
                   "name": "Iowa",
@@ -634,6 +907,49 @@
                   },
                   "prestige": "80",
                   "hexColor": "#000000"
+		  "headCoach": {
+		  "contractLength": "4",
+		  "startYear": "2016",
+		  "age": "62",
+		  "ratOff": "60",
+		  "cumulativePrestige": "0",
+		  "ratDef": "90",
+		  "homeState": "Michigan",
+		  "ratPot": "51",
+		  "hometown": "Royal Oak",
+		  "ratTalent": "85",
+		  "baselinePrestige": "80",
+		  "name": "Kirk Ferentz",
+		  "contractYear": "0"
+	    },
+	    "offCoordinator": {
+		  "contractLength": "3",
+		  "startYear": "2017",
+		  "age": "34",
+		  "cumulativePrestige": "0",
+		  "homeState": "Iowa",
+		  "ratPot": "65",
+		  "hometown": "Iowa City",
+		  "ratTalent": "73",
+		  "baselinePrestige": "80",
+		  "coachingAbility": "62",
+		  "name": "Brian Ferentz",
+		  "contractYear": "0"
+	    },
+	    "defCoordinator": {
+		  "contractLength": "3",
+		  "startYear": "2016",
+		  "age": "54",
+		  "cumulativePrestige": "0",
+		  "homeState": "Ohio",
+		  "ratPot": "68",
+		  "hometown": "Lorain",
+		  "ratTalent": "76",
+		  "baselinePrestige": "80",
+		  "coachingAbility": "83",
+		  "name": "Phil Parker",
+		  "contractYear": "0"
+	    }
               },
               {
                   "name": "Purdue",
@@ -645,6 +961,49 @@
                   },
                   "prestige": "64",
                   "hexColor": "#000000"
+		  "headCoach": {
+		  "contractLength": "3",
+		  "startYear": "2017",
+		  "age": "46",
+		  "ratOff": "80",
+		  "cumulativePrestige": "0",
+		  "ratDef": "67",
+		  "homeState": "Kentucky",
+		  "ratPot": "80",
+		  "hometown": "Louisville",
+		  "ratTalent": "81",
+		  "baselinePrestige": "64",
+		  "name": "Jeff Brohm",
+		  "contractYear": "0"
+	    },
+	    "offCoordinator": {
+		  "contractLength": "3",
+		  "startYear": "2017",
+		  "age": "41",
+		  "cumulativePrestige": "0",
+		  "homeState": "Kentucky",
+		  "ratPot": "72",
+		  "hometown": "Louisville",
+		  "ratTalent": "74",
+		  "baselinePrestige": "64",
+		  "coachingAbility": "78",
+		  "name": "Brian Brohm",
+		  "contractYear": "0"
+	    },
+	    "defCoordinator": {
+		  "contractLength": "3",
+		  "startYear": "2017",
+		  "age": "41",
+		  "cumulativePrestige": "0",
+		  "homeState": "Virginia",
+		  "ratPot": "69",
+		  "hometown": "Lynchburg",
+		  "ratTalent": "74",
+		  "baselinePrestige": "64",
+		  "coachingAbility": "77",
+		  "name": "Anthony Poindexter",
+		  "contractYear": "0"
+	    }
               },
               {
                   "name": "Wisconsin",
@@ -656,6 +1015,49 @@
                   },
                   "prestige": "83",
                   "hexColor": "#C5050C"
+		  "headCoach": {
+		  "contractLength": "3",
+		  "startYear": "2015",
+		  "age": "51",
+		  "ratOff": "77",
+		  "cumulativePrestige": "0",
+		  "ratDef": "73",
+		  "homeState": "Wisconsin",
+		  "ratPot": "70",
+		  "hometown": "Madison",
+		  "ratTalent": "88",
+		  "baselinePrestige": "83",
+		  "name": "Paul Chryst",
+		  "contractYear": "0"
+	    },
+	    "offCoordinator": {
+		  "contractLength": "3",
+		  "startYear": "2015",
+		  "age": "45",
+		  "cumulativePrestige": "0",
+		  "homeState": "Pennsylvania",
+		  "ratPot": "63",
+		  "hometown": "Charleroi",
+		  "ratTalent": "73",
+		  "baselinePrestige": "83",
+		  "coachingAbility": "79",
+		  "name": "Joe Rudolph",
+		  "contractYear": "0"
+	    },
+	    "defCoordinator": {
+		  "contractLength": "3",
+		  "startYear": "2017",
+		  "age": "34",
+		  "cumulativePrestige": "0",
+		  "homeState": "Wisconsin",
+		  "ratPot": "79",
+		  "hometown": "Ladysmith",
+		  "ratTalent": "67",
+		  "baselinePrestige": "83",
+		  "coachingAbility": "84",
+		  "name": "Jim Leonhard",
+		  "contractYear": "0"
+	    }
               }
         ]
     },
