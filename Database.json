@@ -365,7 +365,7 @@
                 "MISS": "Khaki Bowl"
             },
             "prestige": "54",
-            "hexColor": "#000000",
+            "hexColor": "#866D4B",
 	    "headCoach": {
 		"contractLength": "3",
 		"startYear": "2016",
@@ -906,7 +906,7 @@
                       "ISU": "Cy-Hawk"
                   },
                   "prestige": "80",
-                  "hexColor": "#000000",
+                  "hexColor": "#FFCD00",
 		  "headCoach": {
 		  "contractLength": "4",
 		  "startYear": "2016",
@@ -960,7 +960,7 @@
                       "IND": "The Bucket Game"
                   },
                   "prestige": "64",
-                  "hexColor": "#000000",
+                  "hexColor": "#CEB888",
 		  "headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -1582,7 +1582,7 @@
                     "CSU": "Rocky Mountain Showdown"
                 },
                 "prestige": "55",
-                "hexColor": "#000000",
+                "hexColor": "#CFB87C",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -1964,7 +1964,7 @@
                       "KAN": "Border War"
                   },
                   "prestige": "71",
-                  "hexColor": "#000000",
+                  "hexColor": "#F1B82D",
 		  "headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -3660,7 +3660,7 @@
                     "GASO": "Deeper than Hate"
                 },
                 "prestige": "54",
-                "hexColor": "#000000",
+                "hexColor": "#FFCC00",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -3889,7 +3889,7 @@
                     "TULN": "Battle for the Bell"
                 },
                 "prestige": "44",
-                "hexColor": "#000000",
+                "hexColor": "#FFAB00",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -4035,7 +4035,7 @@
                     "USF": "War on I-4"
                 },
                 "prestige": "60",
-                "hexColor": "#000000",
+                "hexColor": "#BA9B37",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -4319,7 +4319,7 @@
                 "rival": ["FRES", "SJSU"],
                 "rivalryNames": {},
                 "prestige": "57",
-                "hexColor": "#000000",
+                "hexColor": "#A6192E",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
