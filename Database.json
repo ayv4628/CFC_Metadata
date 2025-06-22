@@ -32,7 +32,7 @@
 	      "TENN": "Third Saturday in October"
           },
           "prestige": "95",
-          "hexColor": "#9E1B32"
+          "hexColor": "#9E1B32",
 	  "headCoach": {
 		"contractLength": "6",
 		"startYear": "2016",
@@ -86,7 +86,7 @@
 	      "LOU": "Governor's Cup"
           },
           "prestige": "67",
-          "hexColor": "#0033A0"
+          "hexColor": "#0033A0",
 	  "headCoach": {
 		"contractLength": "4",
 		"startYear": "2015",
@@ -142,7 +142,7 @@
                 "LSU": "Tiger Bowl"
             },
             "prestige": "81",
-            "hexColor": "#0C2340"
+            "hexColor": "#0C2340",
 	    "headCoach": {
 		"contractLength": "5",
 		"startYear": "2014",
@@ -198,7 +198,7 @@
                 "LSU": "Swamp Bowl"
             },
             "prestige": "88",
-            "hexColor": "#0021A5"
+            "hexColor": "#0021A5",
 	    "headCoach": {
 		"contractLength": "3",
 		"startYear": "2015",
@@ -254,7 +254,7 @@
 		"AUB": "Deep South's Oldest Rivalry"
             },
             "prestige": "93",
-            "hexColor": "#BA0C2F"
+            "hexColor": "#BA0C2F",
 	    "headCoach": {
 		"contractLength": "4",
 		"startYear": "2016",
@@ -311,7 +311,7 @@
 		"AUB": "Tiger Bowl"
             },
             "prestige": "90",
-            "hexColor": "#582C83"
+            "hexColor": "#582C83",
 	    "headCoach": {
 		"contractLength": "3",
 		"startYear": "2017",
@@ -365,7 +365,7 @@
                 "MISS": "Khaki Bowl"
             },
             "prestige": "54",
-            "hexColor": "#000000"
+            "hexColor": "#000000",
 	    "headCoach": {
 		"contractLength": "3",
 		"startYear": "2016",
@@ -405,7 +405,7 @@
                 "BAMA": "Third Saturday in October"
             },
             "prestige": "82",
-            "hexColor": "#FF8200"
+            "hexColor": "#FF8200",
 	    "headCoach": {
 		"contractLength": "3",
 		"startYear": "2015",
@@ -459,7 +459,7 @@
                 "MISS": "Egg Bowl"
             },
             "prestige": "69",
-            "hexColor": "#660000"
+            "hexColor": "#660000",
 	    "headCoach": {
 		"contractLength": "4",
 		"startYear": "2015",
@@ -515,7 +515,7 @@
 		"VAN": "Khaki Bowl"
             },
             "prestige": "74",
-            "hexColor": "#00205B"
+            "hexColor": "#00205B",
 	    "headCoach": {
 		"contractLength": "3",
 		"startYear": "2017",
@@ -560,7 +560,7 @@
               "rival": ["NW"],
               "rivalryNames": {},
               "prestige": "57",
-              "hexColor": "#13294B"
+              "hexColor": "#13294B",
 	      "headCoach": {
 		"contractLength": "3",
 		"startYear": "2016",
@@ -614,7 +614,7 @@
                     "PUR": "The Bucket Game"
                 },
                 "prestige": "52",
-                "hexColor": "#990000"
+                "hexColor": "#990000",
 		"headCoach": {
 		"contractLength": "3",
 		"startYear": "2017",
@@ -654,7 +654,7 @@
                       "OSU": "The Game"
                   },
                   "prestige": "95",
-                  "hexColor": "#00274C"
+                  "hexColor": "#00274C",
 		  "headCoach": {
 		  "contractLength": "4",
 		  "startYear": "2015",
@@ -706,7 +706,7 @@
                   "rival": ["MICH", "ND"],
                   "rivalryNames": {},
                   "prestige": "82", 
-                  "hexColor": "#18453B"
+                  "hexColor": "#18453B",
 		  "headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -760,7 +760,7 @@
                       "WIS": "The Axe Game"
                   },
                   "prestige": "62",
-                  "hexColor": "#7A0019"
+                  "hexColor": "#7A0019",
 		  "headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -812,7 +812,7 @@
                   "rival": ["ILL"],
                   "rivalryNames": {},
                   "prestige": "60",
-                  "hexColor": "#4E2A84"
+                  "hexColor": "#4E2A84",
 		  "headCoach": {
 		  "contractLength": "4",
 		  "startYear": "2015",
@@ -852,7 +852,7 @@
                       "MICH": "The Game"
                   },
                   "prestige": "95",
-                  "hexColor": "#BB0000"
+                  "hexColor": "#BB0000",
 		  "headCoach": {
 		  "contractLength": "4",
 		  "startYear": "2015",
@@ -906,7 +906,7 @@
                       "ISU": "Cy-Hawk"
                   },
                   "prestige": "80",
-                  "hexColor": "#000000"
+                  "hexColor": "#000000",
 		  "headCoach": {
 		  "contractLength": "4",
 		  "startYear": "2016",
@@ -960,7 +960,7 @@
                       "IND": "The Bucket Game"
                   },
                   "prestige": "64",
-                  "hexColor": "#000000"
+                  "hexColor": "#000000",
 		  "headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -1014,7 +1014,7 @@
                       "MINN": "The Axe Game"
                   },
                   "prestige": "83",
-                  "hexColor": "#C5050C"
+                  "hexColor": "#C5050C",
 		  "headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2015",
@@ -1075,7 +1075,7 @@
                     "SCAR": "Palmetto Bowl"
                 },
                 "prestige": "89",
-                "hexColor": "#F56600"
+                "hexColor": "#F56600",
 		"headCoach": {
 		  "contractLength": "4",
 		  "startYear": "2016",
@@ -1127,7 +1127,7 @@
                   "rival": ["UNC", "WAKE"],
                   "rivalryNames": {},
                   "prestige": "58",
-                  "hexColor": "#003087"
+                  "hexColor": "#003087",
 		  "headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -1181,7 +1181,7 @@
                     "CLEM": "Palmetto Bowl"
                 },
                 "prestige": "75",
-                "hexColor": "#73000A"
+                "hexColor": "#73000A",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -1235,7 +1235,7 @@
                       "FLA": "Sunshine Showdown"
                   },
                   "prestige": "87",
-                  "hexColor": "#782F40"
+                  "hexColor": "#782F40",
 		  "headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2015",
@@ -1289,7 +1289,7 @@
                       "UGA": "Clean, Old-Fashioned Hate"
                   },
                   "prestige": "69",
-                  "hexColor": "#003057"
+                  "hexColor": "#003057",
 		  "headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2015",
@@ -1327,7 +1327,7 @@
                   "rival": ["DUKE", "NCST", "UVA"],
                   "rivalryNames": {},
                   "prestige": "74",
-                  "hexColor": "#7BAFD4"
+                  "hexColor": "#7BAFD4",
 		  "headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -1379,7 +1379,7 @@
                   "rival": ["WAKE", "UNC", "ECU"],
                   "rivalryNames": {},
                   "prestige": "70",
-                  "hexColor": "#CC0000"
+                  "hexColor": "#CC0000",
 		  "headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -1431,7 +1431,7 @@
                   "rival": ["VT", "UMD", "UNC"],
                   "rivalryNames": {},
                   "prestige": "61",
-                  "hexColor": "#041E42"
+                  "hexColor": "#041E42",
 		  "headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -1483,7 +1483,7 @@
                   "rival": ["NAVY", "UVA"],
                   "rivalryNames": {},
                   "prestige": "65", 
-                  "hexColor": "#C8102E"
+                  "hexColor": "#C8102E",
 		  "headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -1521,7 +1521,7 @@
                   "rival": ["NCST", "DUKE"],
                   "rivalryNames": {},
                   "prestige": "60",
-                  "hexColor": "#9E7E38"
+                  "hexColor": "#9E7E38",
 		  "headCoach": {
 		  "contractLength": "4",
 		  "startYear": "2016",
@@ -1582,7 +1582,7 @@
                     "CSU": "Rocky Mountain Showdown"
                 },
                 "prestige": "55",
-                "hexColor": "#000000"
+                "hexColor": "#000000",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -1636,7 +1636,7 @@
                       "MOH": "Battle for the Bell"
                   },
                   "prestige": "66",
-                  "hexColor": "#E00122"
+                  "hexColor": "#E00122",
 		  "headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -1691,7 +1691,7 @@
                       "TEX": "Red River Shootout"
                   },
                   "prestige": "92",
-                  "hexColor": "#841617"
+                  "hexColor": "#841617",
 		  "headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -1746,7 +1746,7 @@
                       "KSU": "Farmageddon"
                   },
                   "prestige": "64",
-                  "hexColor": "#C8102E"
+                  "hexColor": "#C8102E",
 		  "headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -1801,7 +1801,7 @@
                       "MIZZ": "Border War"
                   },
                   "prestige": "52",
-                  "hexColor": "#0051BA"
+                  "hexColor": "#0051BA",
 		  "headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2015",
@@ -1856,7 +1856,7 @@
                       "ISU": "Farmageddon"
                   },
                   "prestige": "77",
-                  "hexColor": "#512888"
+                  "hexColor": "#512888",
 		  "headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2015",
@@ -1910,7 +1910,7 @@
                       "OKLA": "Bedlam"
                   },
                   "prestige": "82",
-                  "hexColor": "#FF7300"
+                  "hexColor": "#FF7300",
 		  "headCoach": {
 		  "contractLength": "4",
 		  "startYear": "2016",
@@ -1964,7 +1964,7 @@
                       "KAN": "Border War"
                   },
                   "prestige": "71",
-                  "hexColor": "#000000"
+                  "hexColor": "#000000",
 		  "headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -2016,7 +2016,7 @@
                   "rival": ["COLO", "OKLA"],
                   "rivalryNames": {},
                   "prestige": "72",
-                  "hexColor": "#E41C38"
+                  "hexColor": "#E41C38",
 		  "headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2015",
@@ -2070,7 +2070,7 @@
                       "UK": "Governor's Cup"
                   },
                   "prestige": "68",
-                  "hexColor": "#AD0000"
+                  "hexColor": "#AD0000",
 		  "headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -2117,7 +2117,7 @@
                     "STAN": "Big Game"
                 },
                 "prestige": "62",
-                "hexColor": "#003262"
+                "hexColor": "#003262",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -2171,7 +2171,7 @@
                     "ASU": "Duel in the Desert"
                 },
                 "prestige": "69",
-                "hexColor": "#003366"
+                "hexColor": "#003366",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2015",
@@ -2211,7 +2211,7 @@
                     "ORST": "Civil War"
                 },
                 "prestige": "89",
-                "hexColor": "#154733"
+                "hexColor": "#154733",
 		"headCoach": {
 		  "contractLength": "2",
 		  "startYear": "2017",
@@ -2265,7 +2265,7 @@
                     "ORE": "Civil War"
                 },
                 "prestige": "62",
-                "hexColor": "#DC4405"
+                "hexColor": "#DC4405",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2015",
@@ -2305,7 +2305,7 @@
                     "CAL": "Big Game"
                 },
                 "prestige": "66",
-                "hexColor": "#8C1515"
+                "hexColor": "#8C1515",
 		"headCoach": {
 		  "contractLength": "4",
 		  "startYear": "2016",
@@ -2357,7 +2357,7 @@
                 "rival": ["USC", "CAL"],
                 "rivalryNames": {},
                 "prestige": "75",
-                "hexColor": "#2D68C4"
+                "hexColor": "#2D68C4",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2015",
@@ -2411,7 +2411,7 @@
                     "ZONA": "Duel in the Desert"
                 },
                 "prestige": "67",
-                "hexColor": "#990033"
+                "hexColor": "#990033",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2015",
@@ -2463,7 +2463,7 @@
                 "rival": ["UCLA", "STAN", "ND"],
                 "rivalryNames": {},
                 "prestige": "92",
-                "hexColor": "#990000"
+                "hexColor": "#990000",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2015",
@@ -2517,7 +2517,7 @@
                     "WSU": "Apple Cup"
                 },
                 "prestige": "80",
-                "hexColor": "#4B2E83"
+                "hexColor": "#4B2E83",
 		"headCoach": {
 		  "contractLength": "4",
 		  "startYear": "2017",
@@ -2571,7 +2571,7 @@
                     "WASH": "Apple Cup"
                 },
                 "prestige": "62",
-                "hexColor": "#981E32"
+                "hexColor": "#981E32",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2015",
@@ -2619,7 +2619,7 @@
                     "TXAM": "Southwest Classic"
                 },
                 "prestige": "73",
-                "hexColor": "#9D2235"
+                "hexColor": "#9D2235",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -2673,7 +2673,7 @@
                     "TCU": "Bluebonnet Battle"
                 },
                 "prestige": "77",
-                "hexColor": "#154734"
+                "hexColor": "#154734",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -2725,7 +2725,7 @@
                 "rival": ["RICE", "TLSA", "SMU"],
                 "rivalryNames": {},
                 "prestige": "66",
-                "hexColor": "#C8102E"
+                "hexColor": "#C8102E",
 	        "headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -2777,7 +2777,7 @@
                 "rival": ["HOU"],
                 "rivalryNames": {},
                 "prestige": "49",
-                "hexColor": "#00205B"
+                "hexColor": "#00205B",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2015",
@@ -2815,7 +2815,7 @@
                 "rival": ["TCU", "UNT", "HOU"],
                 "rivalryNames": {},
                 "prestige": "60",
-                "hexColor": "#0033A0"
+                "hexColor": "#0033A0",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2015",
@@ -2869,7 +2869,7 @@
                     "BAY": "Bluebonnet Bowl"
                 },
                 "prestige": "72",
-                "hexColor": "#4D1979"
+                "hexColor": "#4D1979",
 		"headCoach": {
 		  "contractLength": "5",
 		  "startYear": "2015",
@@ -2923,7 +2923,7 @@
                     "OKLA": "Red River Shootout"
                 },
                 "prestige": "94",
-                "hexColor": "#BF5700"
+                "hexColor": "#BF5700",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -2977,7 +2977,7 @@
 		    "ARK": "Southwest Classic"
 		},
                 "prestige": "80",
-                "hexColor": "#500000"
+                "hexColor": "#500000",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2015",
@@ -3029,7 +3029,7 @@
                 "rival": ["TEX", "TCU"],
                 "rivalryNames": {},
                 "prestige": "72",
-                "hexColor": "#CC0000"
+                "hexColor": "#CC0000",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -3081,7 +3081,7 @@
                 "rival": ["OKST", "HOU"],
                 "rivalryNames": {},
                 "prestige": "46",
-                "hexColor": "#002D72"
+                "hexColor": "#002D72",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2015",
@@ -3126,7 +3126,7 @@
                 "rival": ["PITT", "RUT"],
                 "rivalryNames": {},
                 "prestige": "86",
-                "hexColor": "#041E42"
+                "hexColor": "#041E42",
 		"headCoach": {
 		  "contractLength": "4",
 		  "startYear": "2017",
@@ -3178,7 +3178,7 @@
                   "rival": ["FSU", "FLA", "VT"],
                   "rivalryNames": {},
                   "prestige": "84",
-                  "hexColor": "#005030"
+                  "hexColor": "#005030",
 		  "headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -3230,7 +3230,7 @@
                 "rival": ["SYR", "ND"],
                 "rivalryNames": {},
                 "prestige": "63",
-                "hexColor": "#98002E"
+                "hexColor": "#98002E",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -3284,7 +3284,7 @@
                     "PITT": "Backyard Brawl"
                 },
                 "prestige": "69",
-                "hexColor": "#002855"
+                "hexColor": "#002855",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2015",
@@ -3336,7 +3336,7 @@
                 "rival": ["CONN", "PSU"],
                 "rivalryNames": {},
                 "prestige": "52",
-                "hexColor": "#CC0033"
+                "hexColor": "#CC0033",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -3388,7 +3388,7 @@
                 "rival": ["BUFF", "BC", "PITT"],
                 "rivalryNames": {},
                 "prestige": "55",
-                "hexColor": "#000E54"
+                "hexColor": "#000E54",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -3440,7 +3440,7 @@
                 "rival": ["UVA", "GT", "WVU", "MIA"],
                 "rivalryNames": {},
                 "prestige": "78",
-                "hexColor": "#630031"
+                "hexColor": "#630031",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -3492,7 +3492,7 @@
                 "rival": ["RUT"],
                 "rivalryNames": {},
                 "prestige": "51",
-                "hexColor": "#000E2F"
+                "hexColor": "#000E2F",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -3544,7 +3544,7 @@
                 "rival": ["USC", "STAN", "BC", "MICH", "MSU"],
                 "rivalryNames": {},
                 "prestige": "90",
-                "hexColor": "#0C2340"
+                "hexColor": "#0C2340",
 		"headCoach": {
 		  "contractLength": "4",
 		  "startYear": "2016",
@@ -3598,7 +3598,7 @@
                     "WVU": "Backyard Brawl"
                 },
                 "prestige": "69",
-                "hexColor": "#003594"
+                "hexColor": "#003594",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2015",
@@ -3660,7 +3660,7 @@
                     "GASO": "Deeper than Hate"
                 },
                 "prestige": "54",
-                "hexColor": "#000000"
+                "hexColor": "#000000",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -3714,7 +3714,7 @@
                     "NAVY": "Army-Navy Game"
                 },
                 "prestige": "40",
-                "hexColor": "#D3BC8D"
+                "hexColor": "#D3BC8D",
 	        "headCoach": {
 		  "contractLength": "4",
 		  "startYear": "2016",
@@ -3754,7 +3754,7 @@
                     "ARMY": "Army-Navy Game"
                 },
                 "prestige": "45",
-                "hexColor": "#00205B"
+                "hexColor": "#00205B",
 		"headCoach": {
 		  "contractLength": "4",
 		  "startYear": "2017",
@@ -3792,7 +3792,7 @@
                 "rival": ["MRSH", "NCST", "USM"],
                 "rivalryNames": {},
                 "prestige": "44",
-                "hexColor": "#592A8A"
+                "hexColor": "#592A8A",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -3834,7 +3834,7 @@
                     "ARST": "Paint Bucket Bowl"
                 },
                 "prestige": "56",
-                "hexColor": "#003087"
+                "hexColor": "#003087",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -3889,7 +3889,7 @@
                     "TULN": "Battle for the Bell"
                 },
                 "prestige": "44",
-                "hexColor": "#000000"
+                "hexColor": "#000000",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -3929,7 +3929,7 @@
                     "USM": "Battle for the Bell"
                 },
                 "prestige": "49",
-                "hexColor": "#006747"
+                "hexColor": "#006747",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -3955,7 +3955,7 @@
                     "MEM": "Battle for the Bones"
                 },
                 "prestige": "47",
-                "hexColor": "#006341"
+                "hexColor": "#006341",
 		"headCoach": {
 		  "contractLength": "4",
 		  "startYear": "2017",
@@ -3995,7 +3995,7 @@
                     "UCF": "War on I-4"
                 },
                 "prestige": "55",
-                "hexColor": "#006747"
+                "hexColor": "#006747",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -4035,7 +4035,7 @@
                     "USF": "War on I-4"
                 },
                 "prestige": "60",
-                "hexColor": "#000000"
+                "hexColor": "#000000",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -4094,7 +4094,7 @@
                 "rival": ["FRES", "BYU"],
                 "rivalryNames": {},
                 "prestige": "63",
-                "hexColor": "#0033A0"
+                "hexColor": "#0033A0",
 		"headCoach": {
 		  "contractLength": "4",
 		  "startYear": "2015",
@@ -4148,7 +4148,7 @@
 	            "COLO": "Rocky Mountain Showdown"
 		},
                 "prestige": "50",
-                "hexColor": "#1E4D2B"
+                "hexColor": "#1E4D2B",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -4226,7 +4226,7 @@
                 "rival": ["CSU", "ARMY", "NAVY"],
                 "rivalryNames": {},
                 "prestige": "51",
-                "hexColor": "#003087"
+                "hexColor": "#003087",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -4267,7 +4267,7 @@
                     "USU": "Battle of the Brothers"
                 },
                 "prestige": "71",
-                "hexColor": "#CC0000"
+                "hexColor": "#CC0000",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -4319,7 +4319,7 @@
                 "rival": ["FRES", "SJSU"],
                 "rivalryNames": {},
                 "prestige": "57",
-                "hexColor": "#000000"
+                "hexColor": "#000000",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -4373,7 +4373,7 @@
                     "FRES": "Battle for the Valley"
                 },
                 "prestige": "42",
-                "hexColor": "#0055A2"
+                "hexColor": "#0055A2",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -4399,7 +4399,7 @@
                     "UTAH": "Holy War"
                 },
                 "prestige": "62",
-                "hexColor": "#002E5D"
+                "hexColor": "#002E5D",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -4453,7 +4453,7 @@
                     "UTAH": "Battle of the Brothers"
                 },
                 "prestige": "44",
-                "hexColor": "#00263A"
+                "hexColor": "#00263A",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -4505,7 +4505,7 @@
                 "rival": ["CSU"],
                 "rivalryNames": {},
                 "prestige": "49",
-                "hexColor": "#492F24"
+                "hexColor": "#492F24",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -4566,7 +4566,7 @@
                     "APP": "Old Mountain Feud"
                 },
                 "prestige": "49",
-                "hexColor": "#00B140"
+                "hexColor": "#00B140",
 		"headCoach": {
 		  "contractLength": "4",
 		  "startYear": "2017",
@@ -4606,7 +4606,7 @@
                     "WKU": "100 Miles of Hate"
                 },
                 "prestige": "41",
-                "hexColor": "#0066CC"
+                "hexColor": "#0066CC",
 		"headCoach": {
 		  "contractLength": "4",
 		  "startYear": "2015",
@@ -4658,7 +4658,7 @@
                 "rival": ["APP"],
                 "rivalryNames": {},
                 "prestige": "47",
-                "hexColor": "#006F71"
+                "hexColor": "#006F71",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -4699,7 +4699,7 @@
 		    "APP": "Deeper than Hate"
                 },
                 "prestige": "42",
-                "hexColor": "#011E41"
+                "hexColor": "#011E41",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -4725,7 +4725,7 @@
                     "GASO": "Modern Day Hate"
                 },
                 "prestige": "41",
-                "hexColor": "#0039A6"
+                "hexColor": "#0039A6",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -4765,7 +4765,7 @@
                     "MTSU": "100 Miles of Hate"
                 },
                 "prestige": "50",
-                "hexColor": "#C60C30"
+                "hexColor": "#C60C30",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -4817,7 +4817,7 @@
                 "rival": ["FIU"],
                 "rivalryNames": {},
                 "prestige": "46",
-                "hexColor": "#003366"
+                "hexColor": "#003366",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -4871,7 +4871,7 @@
                     "TROY": "Battle for the Belt"
                 },
                 "prestige": "41",
-                "hexColor": "#00205B"
+                "hexColor": "#00205B",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -4923,7 +4923,7 @@
                 "rival": ["FAU"],
                 "rivalryNames": {},
                 "prestige": "39",
-                "hexColor": "#081E3F"
+                "hexColor": "#081E3F",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -4977,7 +4977,7 @@
                     "USA": "Battle for the Belt"
                 },
                 "prestige": "50",
-                "hexColor": "#8A2432"
+                "hexColor": "#8A2432",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2015",
@@ -5036,7 +5036,7 @@
                 "rival": ["SYR", "OHIO"],
                 "rivalryNames": {},
                 "prestige": "45",
-                "hexColor": "#005BBB"
+                "hexColor": "#005BBB",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2015",
@@ -5088,7 +5088,7 @@
                 "rival": ["NIU"],
                 "rivalryNames": {},
                 "prestige": "40",
-                "hexColor": "#BA0C2F"
+                "hexColor": "#BA0C2F",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -5140,7 +5140,7 @@
                 "rival": ["TOL"],
                 "rivalryNames": {},
                 "prestige": "47",
-                "hexColor": "#FE5000"
+                "hexColor": "#FE5000",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -5178,7 +5178,7 @@
                 "rival": ["WMU", "EMU"],
                 "rivalryNames": {},
                 "prestige": "49",
-                "hexColor": "#6A0032"
+                "hexColor": "#6A0032",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2015",
@@ -5230,7 +5230,7 @@
                 "rival": ["CMU", "WMU"],
                 "rivalryNames": {},
                 "prestige": "37",
-                "hexColor": "#006633"
+                "hexColor": "#006633",
 		"headCoach": {
 		  "contractLength": "4",
 		  "startYear": "2017",
@@ -5268,7 +5268,7 @@
                 "rival": ["BALL", "TOL"],
                 "rivalryNames": {},
                 "prestige": "48",
-                "hexColor": "#BA0C2F"
+                "hexColor": "#BA0C2F",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -5320,7 +5320,7 @@
                 "rival": ["OHIO", "CIN"],
                 "rivalryNames": {},
                 "prestige": "48",
-                "hexColor": "#B61E2E"
+                "hexColor": "#B61E2E",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -5372,7 +5372,7 @@
                 "rival": ["MOH", "BUFF"],
                 "rivalryNames": {},
                 "prestige": "50",
-                "hexColor": "#00694E"
+                "hexColor": "#00694E",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -5424,7 +5424,7 @@
                 "rival": ["BGSU", "NIU"],
                 "rivalryNames": {},
                 "prestige": "53",
-                "hexColor": "#15397F"
+                "hexColor": "#15397F",
 		"headCoach": {
 		  "contractLength": "4",
 		  "startYear": "2016",
@@ -5462,7 +5462,7 @@
                 "rival": ["CMU", "EMU"],
                 "rivalryNames": {},
                 "prestige": "47",
-                "hexColor": "#6C4023"
+                "hexColor": "#6C4023",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -5523,7 +5523,7 @@
                     "MEM": "Paint Bucket Bowl"
                 },
                 "prestige": "38",
-                "hexColor": "#CC092F"
+                "hexColor": "#CC092F",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -5561,7 +5561,7 @@
                 "rival": ["LT", "ULM"],
                 "rivalryNames": {},
                 "prestige": "48",
-                "hexColor": "#CE181E"
+                "hexColor": "#CE181E",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2015",
@@ -5613,7 +5613,7 @@
                 "rival": ["SMU", "UTSA"],
                 "rivalryNames": {},
                 "prestige": "39",
-                "hexColor": "#00853E"
+                "hexColor": "#00853E",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -5654,7 +5654,7 @@
                     "UTEP": "Battle of I-10"
                 },
                 "prestige": "35",
-                "hexColor": "#861F41"
+                "hexColor": "#861F41",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -5694,7 +5694,7 @@
                     "NMST": "Rio Grande Rivalry"
                 },
                 "prestige": "40",
-                "hexColor": "#BA0C2F"
+                "hexColor": "#BA0C2F",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -5734,7 +5734,7 @@
                     "NMST": "Battle of I-10"
                 },
                 "prestige": "38",
-                "hexColor": "#041E42"
+                "hexColor": "#041E42",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2015",
@@ -5786,7 +5786,7 @@
                 "rival": ["UTEP", "TXST", "UNT"],
                 "rivalryNames": {},
                 "prestige": "42",
-                "hexColor": "#0C2340"
+                "hexColor": "#0C2340",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
@@ -5838,7 +5838,7 @@
                 "rival": ["LT", "ULL"],
                 "rivalryNames": {},
                 "prestige": "36",
-                "hexColor": "#840029"
+                "hexColor": "#840029",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -5876,7 +5876,7 @@
                 "rival": ["UTSA"],
                 "rivalryNames": {},
                 "prestige": "40",
-                "hexColor": "#501214"
+                "hexColor": "#501214",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2016",
@@ -5900,7 +5900,7 @@
                 "rival": ["ULL", "ULM", "USM"],
                 "rivalryNames": {},
                 "prestige": "45",
-                "hexColor": "#002F8B"
+                "hexColor": "#002F8B",
 		"headCoach": {
 		  "contractLength": "3",
 		  "startYear": "2017",
