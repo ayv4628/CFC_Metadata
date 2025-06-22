@@ -5524,6 +5524,35 @@
                 },
                 "prestige": "38",
                 "hexColor": "#CC092F"
+		"headCoach": {
+		  "contractLength": "3",
+		  "startYear": "2017",
+		  "age": "48",
+		  "ratOff": "77",
+		  "cumulativePrestige": "0",
+		  "ratDef": "70",
+		  "homeState": "Arkansas",
+		  "ratPot": "65",
+		  "hometown": "Jonesboro",
+		  "ratTalent": "79",
+		  "baselinePrestige": "38",
+		  "name": "Blake Anderson",
+		  "contractYear": "0"
+	    },
+	    "offCoordinator": {
+		  "contractLength": "2",
+		  "startYear": "2017",
+		  "age": "35",
+		  "cumulativePrestige": "0",
+		  "homeState": "Georgia",
+		  "ratPot": "73",
+		  "hometown": "Lilburn",
+		  "ratTalent": "69",
+		  "baselinePrestige": "38",
+		  "coachingAbility": "76",
+		  "name": "Buster Faulkner",
+		  "contractYear": "0"
+	    }
               },
               {
                 "name": "Louisiana",
@@ -5533,6 +5562,49 @@
                 "rivalryNames": {},
                 "prestige": "48",
                 "hexColor": "#CE181E"
+		"headCoach": {
+		  "contractLength": "3",
+		  "startYear": "2015",
+		  "age": "48",
+		  "ratOff": "72",
+		  "cumulativePrestige": "0",
+		  "ratDef": "68",
+		  "homeState": "Mississippi",
+		  "ratPot": "66",
+		  "hometown": "Louisville",
+		  "ratTalent": "70",
+		  "baselinePrestige": "48",
+		  "name": "Mark Hudspeth",
+		  "contractYear": "0"
+	    },
+	    "offCoordinator": {
+		  "contractLength": "3",
+		  "startYear": "2017",
+		  "age": "38",
+		  "cumulativePrestige": "0",
+		  "homeState": "Louisiana",
+		  "ratPot": "68",
+		  "hometown": "Monroe",
+		  "ratTalent": "68",
+		  "baselinePrestige": "48",
+		  "coachingAbility": "72",
+		  "name": "Rob Sale",
+		  "contractYear": "0"
+	    },
+	    "defCoordinator": {
+		  "contractLength": "3",
+		  "startYear": "2015",
+		  "age": "58",
+		  "cumulativePrestige": "0",
+		  "homeState": "North Carolina",
+		  "ratPot": "53",
+		  "hometown": "Shelby",
+		  "ratTalent": "64",
+		  "baselinePrestige": "48",
+		  "coachingAbility": "77",
+		  "name": "Charlie Harbison",
+		  "contractYear": "0"
+	    }
               },
               {
                 "name": "North Texas",
@@ -5542,6 +5614,35 @@
                 "rivalryNames": {},
                 "prestige": "39",
                 "hexColor": "#00853E"
+		"headCoach": {
+		  "contractLength": "3",
+		  "startYear": "2016",
+		  "age": "39",
+		  "ratOff": "79",
+		  "cumulativePrestige": "0",
+		  "ratDef": "63",
+		  "homeState": "Oklahoma",
+		  "ratPot": "72",
+		  "hometown": "Muskogee",
+		  "ratTalent": "79",
+		  "baselinePrestige": "39",
+		  "name": "Seth Littrell",
+		  "contractYear": "0"
+	    },
+	    "offCoordinator": {
+		  "contractLength": "3",
+		  "startYear": "2016",
+		  "age": "32",
+		  "cumulativePrestige": "0",
+		  "homeState": "Texas",
+		  "ratPot": "66",
+		  "hometown": "Brownwood",
+		  "ratTalent": "79",
+		  "baselinePrestige": "39",
+		  "coachingAbility": "69",
+		  "name": "Graham Harrell",
+		  "contractYear": "0"
+	    }
               },
               {
                 "name": "New Mexico State",
@@ -5554,6 +5655,35 @@
                 },
                 "prestige": "35",
                 "hexColor": "#861F41"
+		"headCoach": {
+		  "contractLength": "3",
+		  "startYear": "2016",
+		  "age": "54",
+		  "ratOff": "69",
+		  "cumulativePrestige": "0",
+		  "ratDef": "63",
+		  "homeState": "Tennessee",
+		  "ratPot": "57",
+		  "hometown": "Oak Ridge",
+		  "ratTalent": "75",
+		  "baselinePrestige": "35",
+		  "name": "Doug Martin",
+		  "contractYear": "0"
+	    },
+	    "defCoordinator": {
+		  "contractLength": "3",
+		  "startYear": "2016",
+		  "age": "70",
+		  "cumulativePrestige": "0",
+		  "homeState": "New Jersey",
+		  "ratPot": "50",
+		  "hometown": "Clark",
+		  "ratTalent": "72",
+		  "baselinePrestige": "35",
+		  "coachingAbility": "76",
+		  "name": "Frank Spaziani",
+		  "contractYear": "0"
+	    }
               },
               {
                 "name": "New Mexico",
@@ -5565,6 +5695,35 @@
                 },
                 "prestige": "40",
                 "hexColor": "#BA0C2F"
+		"headCoach": {
+		  "contractLength": "3",
+		  "startYear": "2017",
+		  "age": "62",
+		  "ratOff": "64",
+		  "cumulativePrestige": "0",
+		  "ratDef": "72",
+		  "homeState": "Pennsylvania",
+		  "ratPot": "51",
+		  "hometown": "Sewickley",
+		  "ratTalent": "79",
+		  "baselinePrestige": "40",
+		  "name": "Bob Davie",
+		  "contractYear": "0"
+	    },
+	    "offCoordinator": {
+		  "contractLength": "2",
+		  "startYear": "2017",
+		  "age": "57",
+		  "cumulativePrestige": "0",
+		  "homeState": "Massachuesetts",
+		  "ratPot": "50",
+		  "hometown": "Boston",
+		  "ratTalent": "72",
+		  "baselinePrestige": "40",
+		  "coachingAbility": "67",
+		  "name": "Bob DeBesse",
+		  "contractYear": "0"
+	    }
               },
               {
                 "name": "UTEP",
@@ -5576,6 +5735,49 @@
                 },
                 "prestige": "38",
                 "hexColor": "#041E42"
+		"headCoach": {
+		  "contractLength": "3",
+		  "startYear": "2015",
+		  "age": "51",
+		  "ratOff": "72",
+		  "cumulativePrestige": "0",
+		  "ratDef": "66",
+		  "homeState": "New York",
+		  "ratPot": "59",
+		  "hometown": "Lockport",
+		  "ratTalent": "69",
+		  "baselinePrestige": "38",
+		  "name": "Sean Kugler",
+		  "contractYear": "0"
+	    },
+	    "offCoordinator": {
+		  "contractLength": "2",
+		  "startYear": "2016",
+		  "age": "52",
+		  "cumulativePrestige": "0",
+		  "homeState": "Idaho",
+		  "ratPot": "53",
+		  "hometown": "Moscow",
+		  "ratTalent": "73",
+		  "baselinePrestige": "38",
+		  "coachingAbility": "76",
+		  "name": "Brent Pease",
+		  "contractYear": "0"
+	    },
+	    "defCoordinator": {
+		  "contractLength": "2",
+		  "startYear": "2016",
+		  "age": "60",
+		  "cumulativePrestige": "0",
+		  "homeState": "Montana",
+		  "ratPot": "50",
+		  "hometown": "Moore",
+		  "ratTalent": "70",
+		  "baselinePrestige": "38",
+		  "coachingAbility": "69",
+		  "name": "Tom Mason",
+		  "contractYear": "0"
+	    }
               },
               {
                 "name": "UTSA",
@@ -5583,8 +5785,51 @@
                 "abbreviation": "UTSA",
                 "rival": ["UTEP", "TXST", "UNT"],
                 "rivalryNames": {},
-                "prestige": "49",
+                "prestige": "42",
                 "hexColor": "#0C2340"
+		"headCoach": {
+		  "contractLength": "3",
+		  "startYear": "2017",
+		  "age": "43",
+		  "ratOff": "75",
+		  "cumulativePrestige": "0",
+		  "ratDef": "62",
+		  "homeState": "Louisiana",
+		  "ratPot": "69",
+		  "hometown": "New Orleans",
+		  "ratTalent": "75",
+		  "baselinePrestige": "42",
+		  "name": "Frank Wilson",
+		  "contractYear": "0"
+	    },
+	    "offCoordinator": {
+		  "contractLength": "3",
+		  "startYear": "2016",
+		  "age": "58",
+		  "cumulativePrestige": "0",
+		  "homeState": "Louisiana",
+		  "ratPot": "78",
+		  "hometown": "Abbeville",
+		  "ratTalent": "78",
+		  "baselinePrestige": "42",
+		  "coachingAbility": "76",
+		  "name": "Frank Scelfo",
+		  "contractYear": "0"
+	    },
+	    "defCoordinator": {
+		  "contractLength": "2",
+		  "startYear": "2016",
+		  "age": "33",
+		  "cumulativePrestige": "0",
+		  "homeState": "Louisiana",
+		  "ratPot": "69",
+		  "hometown": "Hammond",
+		  "ratTalent": "72",
+		  "baselinePrestige": "42",
+		  "coachingAbility": "74",
+		  "name": "Pete Golding",
+		  "contractYear": "0"
+	    }
               },
               {
                 "name": "UL Monroe",
@@ -5594,6 +5839,35 @@
                 "rivalryNames": {},
                 "prestige": "36",
                 "hexColor": "#840029"
+		"headCoach": {
+		  "contractLength": "3",
+		  "startYear": "2016",
+		  "age": "53",
+		  "ratOff": "69",
+		  "cumulativePrestige": "0",
+		  "ratDef": "65",
+		  "homeState": "Louisiana",
+		  "ratPot": "52",
+		  "hometown": "Lake Charles",
+		  "ratTalent": "77",
+		  "baselinePrestige": "36",
+		  "name": "Matt Viator",
+		  "contractYear": "0"
+	    },
+	    "defCoordinator": {
+		  "contractLength": "3",
+		  "startYear": "2016",
+		  "age": "56",
+		  "cumulativePrestige": "0",
+		  "homeState": "Louisiana",
+		  "ratPot": "50",
+		  "hometown": "Monroe",
+		  "ratTalent": "72",
+		  "baselinePrestige": "36",
+		  "coachingAbility": "69",
+		  "name": "Mike Collins",
+		  "contractYear": "0"
+	    }
               },
 	      {
                 "name": "Texas State",
@@ -5603,6 +5877,21 @@
                 "rivalryNames": {},
                 "prestige": "40",
                 "hexColor": "#501214"
+		"headCoach": {
+		  "contractLength": "3",
+		  "startYear": "2016",
+		  "age": "54",
+		  "ratOff": "65",
+		  "cumulativePrestige": "0",
+		  "ratDef": "73",
+		  "homeState": "North Carolina",
+		  "ratPot": "60",
+		  "hometown": "Charlotte",
+		  "ratTalent": "72",
+		  "baselinePrestige": "40",
+		  "name": "Everett Withers",
+		  "contractYear": "0"
+	    }
               },
               {
                 "name": "Louisiana Tech",
@@ -5612,6 +5901,49 @@
                 "rivalryNames": {},
                 "prestige": "45",
                 "hexColor": "#002F8B"
+		"headCoach": {
+		  "contractLength": "3",
+		  "startYear": "2017",
+		  "age": "53",
+		  "ratOff": "79",
+		  "cumulativePrestige": "0",
+		  "ratDef": "61",
+		  "homeState": "Connecticut",
+		  "ratPot": "65",
+		  "hometown": "Willimantic",
+		  "ratTalent": "78",
+		  "baselinePrestige": "45",
+		  "name": "Skip Holtz",
+		  "contractYear": "0"
+	    },
+	    "offCoordinator": {
+		  "contractLength": "3",
+		  "startYear": "2016",
+		  "age": "53",
+		  "cumulativePrestige": "0",
+		  "homeState": "Michigan",
+		  "ratPot": "69",
+		  "hometown": "Saline",
+		  "ratTalent": "73",
+		  "baselinePrestige": "45",
+		  "coachingAbility": "75",
+		  "name": "Todd Fitch",
+		  "contractYear": "0"
+	    },
+	    "defCoordinator": {
+		  "contractLength": "3",
+		  "startYear": "2015",
+		  "age": "35",
+		  "cumulativePrestige": "0",
+		  "homeState": "Texas",
+		  "ratPot": "80",
+		  "hometown": "Houston",
+		  "ratTalent": "72",
+		  "baselinePrestige": "45",
+		  "coachingAbility": "77",
+		  "name": "Blake Baker",
+		  "contractYear": "0"
+	    }
               }
         ]
     }
